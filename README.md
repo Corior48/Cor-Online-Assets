@@ -9,3 +9,12 @@
 <p>Alrighty, that should be all i need to say, i may perhaps put more info into this if later on about what projects i need these for, i may not, who knows xD</p>
 <p></p>
 <p>thanks for reading i suppose</p>
+<p></p>
+<div align="center">
+<h1></h1>
+<p>NOTE: in this repository, if you chose to browse the assets folder, you will find images that i both, don't own, and or own...</p>
+<p></p>
+<p>THAT BEING SAID, all credit goes to the original creators/artists that i got these images from, AND i've labeled the images with the following format:</p>
+<p></p>
+<p>creator-image_name_from_local_machine.extension</p>
+</div>
